@@ -1,0 +1,272 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Body Elements */
+
+body { background-color:#000;
+	
+}
+
+h1, h2, h3 { color:#FFF;
+	
+}
+
+p { color:#FFF;
+	
+}
+
+.big-header { font-family: 'Poppins', sans-serif;
+				  font-weight:600;
+				  font-size:5rem;
+	
+}
+
+.big-text { font-family: 'Poppins', sans-serif;
+			   font-weight:100;
+			   font-size:1.25rem;
+}
+
+.section-grp-row { padding:2.5rem;
+	
+}
+
+	
+/* Nav Bar */
+
+.navbar-brand { font-family: 'Poppins', sans-serif;
+				font-weight:900;
+	
+}
+
+.nav-link { font-family: 'Poppins', sans-serif;
+			font-weight:300;
+}
+
+.nav-link:hover { font-family: 'Poppins', sans-serif;
+				  font-weight:300;
+				  text-decoration:underline;
+				  
+	
+}
+
+/* Title */
+
+#title .container-fluid { padding:5% 2%;
+	
+}
+
+.title-img { width:100%;
+			 height:auto;
+}
+
+.title-h1 { padding: 10% 0;
+		  font-family: 'Poppins', sans-serif;
+		  font-weight:900;
+		  font-size:5rem;
+		  text-align:left;
+	
+}
+
+.title-hello { font-family: 'Poppins', sans-serif;
+			   font-size:1.2rem;
+			   font-weight:300;
+			
+	
+}
+
+.title-wd { color: #0F0;
+
+}
+
+.title-text-sa { text-decoration:underline;
+	
+}
+
+/* About */
+
+#about .container-fluid { padding:1% 2%;
+	
+}
+
+#about { text-align:center;
+	
+}
+
+
+/* Education */
+
+#education .container-fluid { padding:5% 2%;
+	
+}
+
+#education { text-align:center;
+	
+}
+
+
+.card-body { background-color:#000;
+	
+}
+
+.card-body:hover { background-color:#0F0;
+				  
+
+	
+}
+
+.card-header { background-color:#FFF;
+	
+}
+
+.edu-h2 { font-family: 'Poppins', sans-serif;
+	
+}
+
+
+.edu-h3 { font-family: 'Poppins', sans-serif;
+	
+}
+
+
+.edu-p { font-family: 'Poppins', sans-serif;
+	
+}
+
+.calarts-logo { width:70%;
+				height:70%;
+	
+}
+
+.umich-logo { width:70%;
+			  height:70%;
+			 
+	
+}
+
+
+/* Skills */
+
+#skills .container-fluid { padding:5% 2%;
+	
+}
+
+#skills { text-align:center;
+
+	
+}
+
+.skill-bars { padding:0% 10%;
+	
+}
+
+.skill-bars-ind { padding:1%;
+	
+}
+
+.progress { height:1.56rem;
+	
+}
+
+/* Work */
+
+#work .container-fluid { padding:5% 2%;
+	
+}
+
+#work { text-align:center;
+	
+}
+
+#work-carousel { padding:2.5rem;
+	
+}
+
+.carousel-header { font-family: 'Poppins', sans-serif;
+					font-weight:600;
+					font-size:6.25rem;
+					color:#0F0;
+					text-align:center;
+					
+	
+}
+
+.carousel-text { font-family: 'Poppins', sans-serif;
+				 font-weight:200;
+				 font-size:1.25rem;
+				 color:#0F0;
+				 padding-bottom:20px;
+				 text-align:center;
+				 
+				 
+	
+}
+
+/* Contact */
+
+#contact .section-header { padding:1.25rem;
+	
+}
+
+#contact .container-fluid { padding:5% 2%;
+	
+}
+
+#contact { text-align:center;
+	
+}
+	
+.contact-form { padding:0% 15%;
+
+}
+
+.form-group {font-family: 'Poppins', sans-serif;
+			 padding:0.93rem;
+	
+}
+
+.form-label { color:#000;
+	
+}
+
+.submit-btn { background-color:#0F0;
+			  border-color: #0F0;
+			  font-family: 'Poppins', sans-serif;
+	
+}
+
+.submit-btn:hover { background-color:#9C0;
+			 	    border-color:#9C0;
+	
+}
+
+.submit-div { padding-top:0.93rem;
+	
+}
+
+
+
+/* Footer */
+
+#footer .container-fluid { padding:2% 2%;
+	
+}
+
+#footer { text-align:center;
+	
+}
+
+.footer-icon { color:#FFF;
+			   padding:0.125rem; 
+	
+}
+
+.footer-icon:hover { color:#0F0;
+			   	     padding:0.125rem; 
+	
+}
+
+.footer-p { padding:2%;
+			font-family: 'Poppins', sans-serif;
+			font-weight:100;
+	
+}
